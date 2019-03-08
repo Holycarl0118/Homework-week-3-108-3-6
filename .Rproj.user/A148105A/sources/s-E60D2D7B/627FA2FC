@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552025045161.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3452684045",
+    "id" : "627FA2FC",
+    "lastKnownWriteTime" : 1552025169,
+    "last_content_update" : 1552025169149,
+    "path" : "~/GitHub/Homework-week-3-108-3-6/2019-03-08.Rmd",
+    "project_path" : "2019-03-08.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

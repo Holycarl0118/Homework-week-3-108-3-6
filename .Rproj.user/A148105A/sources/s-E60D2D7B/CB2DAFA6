@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552024960607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB2DAFA6",
+    "lastKnownWriteTime" : 1551859003,
+    "last_content_update" : 1551859003,
+    "path" : "~/GitHub/Holycarl0118/2019-03-06.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
